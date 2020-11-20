@@ -1,1 +1,1 @@
-#SymbolsImagesDataSet
+SymbolsImagesDataSet
